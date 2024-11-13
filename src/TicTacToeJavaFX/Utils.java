@@ -1,9 +1,5 @@
 package TicTacToeJavaFX;
 
-/**
- * @author Akhilesh Garg
- * @since 08-03-2023
- */
 final class Utils {
 
     private Utils() {
